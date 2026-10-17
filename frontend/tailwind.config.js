@@ -25,6 +25,12 @@ export default {
             emerald: '#34D399',
             amber: '#FBBF24',
             rose: '#FB7185',
+          },
+          event: {
+            exam: '#F43F5E',
+            deadline: '#F59E0B',
+            event: '#3B82F6',
+            other: '#64748B',
           }
         }
       },
